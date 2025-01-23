@@ -1,0 +1,81 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 4 (0x4)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=ES, ST=Madrid, L=Alcorcon, O=CA de Pruebas, CN=CA de Pruebas
+        Validity
+            Not Before: Oct 19 09:34:13 2024 GMT
+            Not After : Oct 19 09:34:13 2025 GMT
+        Subject: C=ES, ST=Madrid, O=CA de Pruebas, CN=www.seguro.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:96:e2:ff:63:65:e9:95:b9:92:aa:e8:03:12:86:
+                    f5:de:95:cc:db:8d:6e:b0:69:8b:01:17:e9:ad:7b:
+                    67:42:0a:0f:53:6d:e0:db:27:10:50:bc:28:18:05:
+                    8a:c3:30:36:7e:7b:14:8a:65:90:a0:2e:a1:2a:4e:
+                    10:db:0c:1c:91:50:74:1f:cf:ea:b1:ee:4d:1e:80:
+                    a7:74:2b:74:d9:46:e5:fc:a0:58:74:50:09:84:8f:
+                    a3:58:88:c6:30:f4:71:5f:2e:29:fc:4f:ee:22:0f:
+                    46:d3:fe:22:75:6d:1e:c8:3e:c8:5e:40:e0:a1:4e:
+                    f7:39:36:36:38:f6:16:50:cb:67:9c:94:1b:26:5c:
+                    65:13:7e:13:2d:c3:6a:46:db:36:e6:34:9c:51:fd:
+                    d9:8d:9a:6d:22:12:79:65:b4:d2:d3:54:3c:a7:8a:
+                    67:91:ca:8f:f9:d8:7b:5d:d8:b4:0d:83:af:3a:eb:
+                    a4:a4:97:a7:ad:e5:41:d6:b4:ca:c2:08:2c:1f:6f:
+                    03:32:b6:84:47:46:84:e4:59:a2:14:7b:0a:0d:de:
+                    de:cd:2c:66:17:44:e9:5f:a1:dd:29:40:cf:67:50:
+                    5b:43:a3:70:72:c5:31:bb:67:5b:8c:4f:c7:6f:a1:
+                    fe:54:f1:44:0d:95:d7:0c:a1:d9:bb:a4:7e:21:f1:
+                    99:7b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                55:33:C6:74:BE:8E:11:B9:8E:D8:9A:94:AB:D2:FA:97:C0:C7:63:CB
+            X509v3 Authority Key Identifier: 
+                DirName:/C=ES/ST=Madrid/L=Alcorcon/O=CA de Pruebas/CN=CA de Pruebas
+                serial:68:C0:C1:D3:93:D9:BF:BD:D8:70:C3:5C:36:EE:A8:C2:19:D7:C3:F6
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        ba:85:6f:f1:d7:59:00:d2:99:85:53:01:a4:1e:2f:7f:9d:bf:
+        23:da:1e:3c:c9:75:68:29:4b:c9:c2:86:e8:f0:ac:15:9e:93:
+        d8:05:3e:6e:20:f5:95:8b:00:fd:e3:6d:7d:e5:2f:cf:69:73:
+        f7:d1:81:83:3b:d7:b9:bd:b9:38:39:16:99:f7:b1:04:45:c1:
+        a2:94:41:d7:a9:6b:85:b7:92:e9:44:ae:75:d4:8a:f7:63:d8:
+        bf:a0:3e:2f:54:18:80:47:1e:86:fc:6e:17:02:59:ae:5f:4f:
+        8c:04:0c:61:39:f1:b0:77:ec:47:d2:19:75:63:0a:cc:a8:3b:
+        43:b3:b5:96:fe:c5:64:31:c1:93:7b:37:c0:d8:0c:5e:2c:50:
+        91:8f:cc:1f:6c:d5:a9:0e:b8:12:ae:4f:a7:85:56:08:75:49:
+        4d:1c:ce:ec:5c:79:64:f1:96:cd:07:4f:59:ad:0d:27:54:88:
+        f2:cc:a1:9a:85:ff:cb:b1:a2:ce:e9:23:62:7a:9a:6d:08:e6:
+        bf:7c:7a:b5:72:27:85:47:7e:c8:77:ca:c4:00:7d:e3:3c:56:
+        c6:d3:fe:c5:41:fd:4b:56:0c:a7:ea:b3:25:a2:58:13:7a:ad:
+        42:e2:af:37:8e:b1:9a:b9:b9:53:56:5f:66:a0:1a:e4:dd:c3:
+        b9:d7:8d:b7
+-----BEGIN CERTIFICATE-----
+MIID4jCCAsqgAwIBAgIBBDANBgkqhkiG9w0BAQsFADBhMQswCQYDVQQGEwJFUzEP
+MA0GA1UECAwGTWFkcmlkMREwDwYDVQQHDAhBbGNvcmNvbjEWMBQGA1UECgwNQ0Eg
+ZGUgUHJ1ZWJhczEWMBQGA1UEAwwNQ0EgZGUgUHJ1ZWJhczAeFw0yNDEwMTkwOTM0
+MTNaFw0yNTEwMTkwOTM0MTNaME8xCzAJBgNVBAYTAkVTMQ8wDQYDVQQIDAZNYWRy
+aWQxFjAUBgNVBAoMDUNBIGRlIFBydWViYXMxFzAVBgNVBAMMDnd3dy5zZWd1cm8u
+Y29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAluL/Y2XplbmSqugD
+Eob13pXM241usGmLARfprXtnQgoPU23g2ycQULwoGAWKwzA2fnsUimWQoC6hKk4Q
+2wwckVB0H8/qse5NHoCndCt02Ubl/KBYdFAJhI+jWIjGMPRxXy4p/E/uIg9G0/4i
+dW0eyD7IXkDgoU73OTY2OPYWUMtnnJQbJlxlE34TLcNqRts25jScUf3ZjZptIhJ5
+ZbTS01Q8p4pnkcqP+dh7Xdi0DYOvOuukpJenreVB1rTKwggsH28DMraER0aE5Fmi
+FHsKDd7ezSxmF0TpX6HdKUDPZ1BbQ6NwcsUxu2dbjE/Hb6H+VPFEDZXXDKHZu6R+
+IfGZewIDAQABo4G2MIGzMAkGA1UdEwQCMAAwHQYDVR0OBBYEFFUzxnS+jhG5jtia
+lKvS+pfAx2PLMIGGBgNVHSMEfzB9oWWkYzBhMQswCQYDVQQGEwJFUzEPMA0GA1UE
+CAwGTWFkcmlkMREwDwYDVQQHDAhBbGNvcmNvbjEWMBQGA1UECgwNQ0EgZGUgUHJ1
+ZWJhczEWMBQGA1UEAwwNQ0EgZGUgUHJ1ZWJhc4IUaMDB05PZv73YcMNcNu6owhnX
+w/YwDQYJKoZIhvcNAQELBQADggEBALqFb/HXWQDSmYVTAaQeL3+dvyPaHjzJdWgp
+S8nChujwrBWek9gFPm4g9ZWLAP3jbX3lL89pc/fRgYM717m9uTg5Fpn3sQRFwaKU
+Qdepa4W3kulErnXUivdj2L+gPi9UGIBHHob8bhcCWa5fT4wEDGE58bB37EfSGXVj
+CsyoO0OztZb+xWQxwZN7N8DYDF4sUJGPzB9s1akOuBKuT6eFVgh1SU0czuxceWTx
+ls0HT1mtDSdUiPLMoZqF/8uxos7pI2J6mm0I5r98erVyJ4VHfsh3ysQAfeM8VsbT
+/sVB/UtWDKfqsyWiWBN6rULirzeOsZq5uVNWX2agGuTdw7nXjbc=
+-----END CERTIFICATE-----
